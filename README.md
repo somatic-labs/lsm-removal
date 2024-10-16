@@ -57,7 +57,9 @@ Technical Comms
   [ ] marked in its readme.md file to include code history
   
     [x] v50: https://github.com/cosmos/cosmos-sdk/pull/22272
+  
     [x] v47: https://github.com/cosmos/cosmos-sdk/pull/22273
+  
     [x] v45: https://github.com/cosmos/cosmos-sdk/pull/22274
   
   [ ] retracted/deprecated
