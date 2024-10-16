@@ -56,15 +56,17 @@ Software - software steps, to be executed sequentially
 The cosmos-sdk repository contains software known to be developed by agents of the worlds largest cryptocurrency theft organization.  This needs to be labeled as such.  All -lsm branches should contain an explicit and clear warning.
 
 
-  [ ] marked in its readme.md file to include code history
+ - [ ] marked in its readme.md file to include code history
   
-    [x] v50: https://github.com/cosmos/cosmos-sdk/pull/22272
+   - [x] v50: https://github.com/cosmos/cosmos-sdk/pull/22272
   
-    [x] v47: https://github.com/cosmos/cosmos-sdk/pull/22273
+    - [x] v47: https://github.com/cosmos/cosmos-sdk/pull/22273
   
-    [x] v45: https://github.com/cosmos/cosmos-sdk/pull/22274
+    - [x] v45: https://github.com/cosmos/cosmos-sdk/pull/22274
   
-  [ ] retracted/deprecated
+  - [ ] retracted/deprecated
+
+
 * we need to commmunicate unilaterally -- independent of the ICF or amulet, that these steps are being taken, and show a proper intolerance to known thieves contributing code to cosmos
    * Me: https://x.com/gadikian/status/1846452653595021713
    * AIB: https://x.com/Allinbits_inc/status/1846315815521440201
