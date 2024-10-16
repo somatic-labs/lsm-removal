@@ -57,12 +57,14 @@ The cosmos-sdk repository contains software known to be developed by agents of t
 
 
  - [ ] marked in its readme.md file to include code history
+
+Pull requests have been made, and these boxes will be checked when they've been merged, or equivalent pull requests have been merged.
   
-   - [x] v50: https://github.com/cosmos/cosmos-sdk/pull/22272
+    - [ ] v50: https://github.com/cosmos/cosmos-sdk/pull/22272
   
-    - [x] v47: https://github.com/cosmos/cosmos-sdk/pull/22273
+    - [ ] v47: https://github.com/cosmos/cosmos-sdk/pull/22273
   
-    - [x] v45: https://github.com/cosmos/cosmos-sdk/pull/22274
+    - [ ] v45: https://github.com/cosmos/cosmos-sdk/pull/22274
   
   - [ ] retracted/deprecated
 
