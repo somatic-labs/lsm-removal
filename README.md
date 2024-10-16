@@ -42,9 +42,9 @@ Research
 Software - software steps, to be executed sequentially
   1) learn what the changes to application state made by LSM are, and come up with a plan for a migration back to normal, boring, safe, cosmos-sdk modules looks like.  We musn't make any assumptions here, the documentation must be precise.
    
-   * .proto files
-   * store keys
-   * ...others (assume there are some but don't know what they are yet)
+     * .proto files
+     * store keys
+     * ...others (assume there are some but don't know what they are yet)
 
 
   2) code these changes and test them on the hub testnet, ensuring that there is sufficient state in the hub testnet environment
