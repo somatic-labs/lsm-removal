@@ -55,9 +55,11 @@ Software - software steps, to be executed sequentially
 Technical Comms
 * we need to ensure that the -LSM branch of cosmos-sdk is:
   [ ] marked in its readme.md file to include code history
+  
     [x] v50: https://github.com/cosmos/cosmos-sdk/pull/22272
     [x] v47: https://github.com/cosmos/cosmos-sdk/pull/22273
     [x] v45: https://github.com/cosmos/cosmos-sdk/pull/22274
+  
   [ ] retracted/deprecated
 * we need to commmunicate unilaterally -- independent of the ICF or amulet, that these steps are being taken, and show a proper intolerance to known thieves contributing code to cosmos
    * Me: https://x.com/gadikian/status/1846452653595021713
