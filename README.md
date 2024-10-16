@@ -53,20 +53,20 @@ Software - software steps, to be executed sequentially
 
 
 **Technical Comms**
-The cosmos-sdk repository contains software known to be developed by agents of the worlds largest cryptocurrency theft organization.  This needs to be labeled as such.  All -lsm branches should contain an explicit and clear warning.
+The cosmos-sdk repository contains software known to be developed by agents of the worlds largest cryptocurrency theft organization.  This needs to be labeled as such.  All -lsm branches should contain an explicit and clear warning, and if possible, the tags should be explicitly retracted in the main go.mod files.
 
 
  - [ ] marked in its readme.md file to include code history
+ - [ ] retracted/deprecated
+
 
 Pull requests have been made, and these boxes will be checked when they've been merged, or equivalent pull requests have been merged.
+
   
     - [ ] v50: https://github.com/cosmos/cosmos-sdk/pull/22272
-  
     - [ ] v47: https://github.com/cosmos/cosmos-sdk/pull/22273
-  
     - [ ] v45: https://github.com/cosmos/cosmos-sdk/pull/22274
   
-  - [ ] retracted/deprecated
 
 
 * we need to commmunicate unilaterally -- independent of the ICF or amulet, that these steps are being taken, and show a proper intolerance to known thieves contributing code to cosmos
