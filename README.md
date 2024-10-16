@@ -52,8 +52,10 @@ Software - software steps, to be executed sequentially
   3) use software to test these changes against the actual state of the cosmos hub, before the code is deployed to mainnet, to ensure that there will be no issues with migration
 
 
-Technical Comms
-* we need to ensure that the -LSM branch of cosmos-sdk is:
+**Technical Comms**
+The cosmos-sdk repository contains software known to be developed by agents of the worlds largest cryptocurrency theft organization.  This needs to be labeled as such.  All -lsm branches should contain an explicit and clear warning.
+
+
   [ ] marked in its readme.md file to include code history
   
     [x] v50: https://github.com/cosmos/cosmos-sdk/pull/22272
